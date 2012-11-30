@@ -33,7 +33,26 @@ Beberapa deskripsi dari javascript yang digunakan pada LTQ antara lain:
 <li>Javascript biasanya disimpan langsung didalam halaman HTML.</li>
 <li>Tentunya, Setiap orang dapat menggunakan javascript tanpa harus membeli lisensi.</li></ul>
 
-Untuk pembuatan header kami memanfaatkan Jquery 1.4.3 "Nivo Slider" yang merupakan Slide Gambar Jquery paling populer di dunia dan gratis.
+Pengembangan kuis LTQ ini, kami memanfaatkan Quiz Engine "jQuizzy", berikut deskripsi mengenai quiz engine ini:<br/>
+<pre>jQuizzy - jQuery plugin for creating quizzes
+ * by Siddharth S - www.ssiddharth.com
+ * Copyright (c) 2011 Siddharth
+ * Version: 1.0</pre>
+
+
+<p>Untuk pembuatan header kami memanfaatkan Jquery 1.4.3 "Nivo Slider" yang merupakan Slide Gambar Jquery paling populer di dunia dan gratis.</p>
+ * jQuery Nivo Slider v2.3
+ * http://nivo.dev7studios.com 
+ * Copyright 2010, Gilbert Pellegrom
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php * 
+ * May 2010 - Pick random effect from specified set of effects by toronegro
+ * May 2010 - controlNavThumbsFromRel option added by nerd-sh
+ * May 2010 - Do not start nivoRun timer if there is only 1 slide by msielski
+ * April 2010 - controlNavThumbs option added by Jamie Thompson (http://jamiethompson.co.uk)
+ * March 2010 - manualAdvance option added by HelloPablo (http://hellopablo.co.uk) 
+<br/>
+
 Adapun fitur-fitur yang dimiliki Nivo Slider antara lain:
 <ul>
 <li>16 efek transisi yang unik</li>
