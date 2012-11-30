@@ -38,7 +38,7 @@
         var superContainer = $(this),
             answers = [],
             introFob = '	<div class="intro-container slide-container"><div class="question-number">' + config.startText + '</div><a class="nav-start" href="#"><img src="' + config.splashImage + '" /></a></div>	',
-            exitFob = '<div class="results-container slide-container"><div class="question-number">' + config.endText + '</div><div class="result-keeper"></div></div align = "center"><div class="notice" >Please, choose the one best answer!</div><div class="progress-keeper" ><div class="progress"></div></div>',
+            exitFob = '<div class="results-container slide-container"><div class="question-number">' + config.endText + '</div><div class="result-keeper"></div></div align = "center"><div class="notice" > Please, choose the one best answer! </div><div class="progress-keeper" ><div class="progress"></div></div>',
             contentFob = '';
         superContainer.addClass('main-quiz-holder');
 
